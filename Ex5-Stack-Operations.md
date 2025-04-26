@@ -33,6 +33,5 @@ return stack[top--];
 
 ![image](https://github.com/user-attachments/assets/b7ea31c0-cac8-4a63-8a75-6c165b3e39ff)
 
-
 ## Result:
 Thus the C program to perform push and pop operation of the stack in the infix to postfix conversion is implemented successfully.
